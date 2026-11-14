@@ -1,5 +1,3 @@
-# Login-Screen-Ui-design
-My first beginner UI design project created using Figma.
 # My First Login Screen UI Design 🎨
 
 ## About
